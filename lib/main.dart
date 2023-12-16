@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Beer App',
       theme: ThemeData(
-        primarySwatch: Colors.amber, // Color principal para la barra de aplicaciones, etc.
+        primarySwatch: Colors.blue, // Color principal para la barra de aplicaciones, etc.
       ),
       home: BeerListScreen(), // Pantalla de inicio de la aplicación.
     );
